@@ -1,0 +1,3 @@
+./phmmer --mxfile /home/lidaphd/lidaphd/Desktop/test.mat --incE 0.1 -A /home/lidaphd/lidaphd/Gremlin_test/Gremlin_test/PYRB_1ekxA.alignment --tblout /home/lidaphd/lidaphd/Gremlin_test/Gremlin_test/PYRB_1ekxA.tblout /home/lidaphd/lidaphd/Gremlin_test/Gremlin_test/PYRB_fseq_1ekx_ABC.pdbA.fas /home/lidaphd/lidaphd/Desktop/library.fas.fasta
+
+./phmmer --mxfile /home/lidaphd/lidaphd/Desktop/test.mat --incE 0.1 -A /home/lidaphd/lidaphd/Gremlin_test/Gremlin_test/PYRI_4fyyB.alignment --tblout /home/lidaphd/lidaphd/Gremlin_test/Gremlin_test/PYRI_4fyyB.tblout -o /home/lidaphd/lidaphd/Gremlin_test/Gremlin_test/PYRI_4fyyB.out /home/lidaphd/lidaphd/Gremlin_test/Gremlin_test/PYRI_fseq_4fyy_BD_B.pdbB.fas /home/lidaphd/lidaphd/Desktop/library.fas.fasta

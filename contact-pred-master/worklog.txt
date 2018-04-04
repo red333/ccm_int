@@ -1,0 +1,8 @@
+PYRB_fseq_1ekx_ABC.pdb
+PYRB_fseq_1ekx_ABC.pdb
+PYRB_fseq_1ekx_ABC.pdb
+PYRB_fseq_1ekx_ABC.pdb
+PYRB_fseq_1ekx_ABC.pdb
+PYRB_fseq_1ekx_ABC.pdb
+PYRI_fseq_4fyy_BD_B.pdb
+1pg5_A.pdb
